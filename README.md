@@ -8,7 +8,7 @@ Create a `.env` or `.env.local` file with following environment variables:
 
 * `REDMINE_API_URL`: Url of your Redmine API
 * `REDMINE_API_KEY`: Key of your Redmine API
-* `REDMINE_API_NAME`: Name of the project you are targeting
+* `REDMINE_PROJECT_NAME`: Name of the project you are targeting
 
 ## Available Scripts
 
